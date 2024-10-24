@@ -14,6 +14,6 @@ bash train.sh   # train
 **Predict:**
 
 ```shell
-bash pre.sh   # predict
+bash pre.sh     # predict
 ```
 
