@@ -11,7 +11,7 @@ Here, We offer straightforward operational instructions for both training and pr
 bash train.sh   # train
 ```
 
-**predict:**
+**Predict:**
 
 ```shell
 bash pre.sh   # predict
