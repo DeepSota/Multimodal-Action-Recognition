@@ -5,12 +5,13 @@ This work is responsible for ICPR2024 workshop challenge： Multimodal Action Re
 
 Here, We offer straightforward operational instructions for both training and prediction ：
 
+**Train:**
+
 ```shell
 bash train.sh   # train
 ```
 
-
-**Targeted Attack:**
+**predict:**
 
 ```shell
 bash pre.sh   # predict
