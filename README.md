@@ -1,5 +1,7 @@
 # ICPR 2024 Multimodal Action Recognition
-This work is responsible for ICPR2024 workshop challenge： Multimodal Action Recognition, third place (team name: deepsota)
+This work is responsible for ICPR2024 workshop challenge： Multimodal Action Recognition！
+
+**We won the third place！** **(team name: deepsota)**
 
 **Demo:**
 
