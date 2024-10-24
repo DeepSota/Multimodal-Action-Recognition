@@ -5,7 +5,7 @@ This work is responsible for ICPR2024 workshop challenge： Multimodal Action Re
 
 **Demo:**
 
-Here, We offer straightforward operational instructions for both training and prediction ：
+Here, we offer straightforward operational instructions for both training and prediction ：
 
 **Train:**
 
